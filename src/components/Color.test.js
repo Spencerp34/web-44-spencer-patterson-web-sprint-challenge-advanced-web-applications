@@ -44,3 +44,5 @@ test("Executes setEditColor and toggleEdit property when color div is clicked", 
     expect(toggleEdit).toBeCalled();
 
 });
+
+//testing change in code.
